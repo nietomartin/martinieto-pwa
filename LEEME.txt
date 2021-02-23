@@ -1,0 +1,12 @@
+Martin recuerda esto.....
+en pingendo, salvas el trabajo comun y corriente, pero...
+si abres el archivo html se va a ver mal, en una sola linea,
+inmanejable.
+
+Entonces, dentro de pingendo copias el texto del html y lo
+pegas dentro del editor (ej el notepad++) y listo
+ya queda egible, editable.
+
+Atte,
+
+Martin
