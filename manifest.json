@@ -1,5 +1,5 @@
 {
-  "name": "#martinieto,
+  "name": "#martinieto",
   "short_name": "#martinieto",
   "description": "Bienvenid@s a #martinieto, información acerca de mis actividades de aprendizaje en el mundo informático :)",
   "background_color": "#2B2B2B",
@@ -8,7 +8,7 @@
   "display": "standalone",
   "start_url": "./?utm_source=web_app_manifest",
   "scope": "./",
-  "lang": "es-MX",
+  "lang": "es-CO",
   "martins": [
     {
       "src": "./img/martin_1024.png",
